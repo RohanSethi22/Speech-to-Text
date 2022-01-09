@@ -1,0 +1,9 @@
+asgiref==3.4.1
+Django==3.2.11
+pocketsphinx==0.1.15
+pytz==2021.3
+selenium==3.141.0
+SpeechRecognition==3.8.1
+sqlparse==0.4.2
+typing_extensions==4.0.1
+urllib3==1.26.8
